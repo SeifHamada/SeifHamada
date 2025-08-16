@@ -30,7 +30,7 @@ A web-based planner that helps students create custom study plans based on their
 A command-line finance tracker that helps users manage expenses, track income, and gain insights into spending habits. 
 - Features include expense categorization, summaries, and simple analytics  
 - Focused on usability and clean code design  
-[View on GitHub](https://github.com/SeifHamada/CS50-Projects/tree/main/Intro%20to%20CS/project) 
+[View on GitHub](https://github.com/SeifHamada/CS50-Projects/tree/main/Intro%20to%20PY/Project) 
 
 
 ### 🔹 100 Days of Python Projects *(In Progress)*  
