@@ -3,7 +3,7 @@
 🎓 Computer Science (AI) student at University of Herfordshire
 💻 Passionate about Artificial Intelligence, Software Development, and Problem Solving  
 🌱 Currently learning **Python**, while also improving my problem-solving skills.  
-🛠️ Completed **CS50x**, **CS50p** and currently finishing **The 100 Day Bootcamp**.  
+🛠️ Completed **CS50x**, **CS50p** and **The 100 Day Bootcamp**.  
 📈 I enjoy combining discipline from sports (boxing) with my approach to coding & learning.  
 💡 Open to internships and collaboration on AI or software-related projects.  
 
@@ -33,7 +33,7 @@ A command-line finance tracker that helps users manage expenses, track income, a
 [View on GitHub](https://github.com/SeifHamada/CS50-Projects/tree/main/Intro%20to%20PY/Project) 
 
 
-### 🔹 100 Days of Python Projects *(In Progress)*  
+### 🔹 100 Days of Python Projects  
 A collection of mini-projects built during Angela Yu’s 100 Days of Code bootcamp.  
 - Covers Python, web development basics, and automation  
 [View on GitHub](https://github.com/SeifHamada/100-days-100-python-project)  
@@ -51,7 +51,7 @@ A collection of mini-projects built during Angela Yu’s 100 Days of Code bootca
 
 - **CS50x: Introduction to Computer Science** — Harvard / edX  
 - **CS50P: Introduction to Programming with Python** — Harvard / edX  
-- **100 Days of Code: The Complete Python Pro Bootcamp** — Dr. Angela Yu *(In Progress)*
+- **100 Days of Code: The Complete Python Pro Bootcamp** — Dr. Angela Yu 
 
 
 ## 📫 Connect with Me  
@@ -62,10 +62,6 @@ A collection of mini-projects built during Angela Yu’s 100 Days of Code bootca
 
 
 ## 📊 GitHub Stats  
-
-![Seif's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeifHamada&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeifHamada&layout=compact&theme=tokyonight)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeifHamada&theme=tokyonight)
 
