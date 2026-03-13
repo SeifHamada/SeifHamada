@@ -2,7 +2,7 @@
 
 🎓 Computer Science (AI) student at University of Herfordshire
 💻 Passionate about Artificial Intelligence, Software Development, and Problem Solving  
-🌱 Currently learning **Python**, while also improving my problem-solving skills.  
+🌱 Currently expanding my knowledge in computer science while building projects and improving my problem-solving skills.
 🛠️ Completed **CS50x**, **CS50p** and **The 100 Day Bootcamp**.  
 📈 I enjoy combining discipline from sports (boxing) with my approach to coding & learning.  
 💡 Open to internships and collaboration on AI or software-related projects.  
