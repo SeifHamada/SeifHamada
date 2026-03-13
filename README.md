@@ -40,10 +40,10 @@ A mobile app that helps users track internship applications, monitor deadlines, 
 
 
 
-### 🔹 100 Days of Python Projects  
-A collection of mini-projects built during Angela Yu’s 100 Days of Code bootcamp.  
-- Covers Python, web development basics, and automation  
-[View on GitHub](https://github.com/SeifHamada/100-days-100-python-project)  
+A Python-based system that allows users to manage home devices like lights, thermostats, and cameras through interactive commands and scheduled events.
+- Implements modular classes with inheritance and composition (Device, Light, Thermostat, Camera, User, Scheduler, Controller, Main)
+-	Demonstrates use of complex data structures, user interaction handling, and automated scheduling
+[View on GitHub] (https://github.com/SeifHamada/Home-Automation-System)
 
 
 ## 🎓 Education  
