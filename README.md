@@ -46,7 +46,7 @@ A collection of mini-projects built during Angela Yu’s 100 Days of Code bootca
 ## 🎓 Education  
 
 - **University of Hertfordshire** — BSc Computer Science (Artificial Intelligence)  
-  *2024 – 2027 (Expected)*  
+  *2024 – Present*  
 
 - **Modern School of Egypt 2000** — High School Diploma  
   *Graduated 2024*  
