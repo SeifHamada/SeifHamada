@@ -29,7 +29,7 @@ A Python application to manage stock and inventory efficiently, helping users tr
 - Built with **Python**  
 - Features **add, remove, and update inventory items**  
 - Helps users maintain organized and accurate stock records  
-[View on GitHub](https://github.com/SeifHamada/Stock-Inventory-Tracker)
+[View on GitHub](https://github.com/SeifHamada/Inventory-And-Stock-Tracker)
 
 
 ### 🔹 CS50p Final Project  
