@@ -32,11 +32,12 @@ A Python application to manage stock and inventory efficiently, helping users tr
 [View on GitHub](https://github.com/SeifHamada/Inventory-And-Stock-Tracker)
 
 
-### 🔹 CS50p Final Project  
-A command-line finance tracker that helps users manage expenses, track income, and gain insights into spending habits. 
-- Features include expense categorization, summaries, and simple analytics  
-- Focused on usability and clean code design  
-[View on GitHub](https://github.com/SeifHamada/CS50-Projects/tree/main/Intro%20to%20PY/Project) 
+### 🔹 Internship Tracker
+A mobile app that helps users track internship applications, monitor deadlines, and visualize their application pipeline.
+- Features include status tracking, deadline alerts, dashboard analytics, and PDF/CSV export
+- Built with Flutter and FastAPI following clean architecture principles
+[View on GitHub](https://github.com/SeifHamada/Internship-Tracker)
+
 
 
 ### 🔹 100 Days of Python Projects  
