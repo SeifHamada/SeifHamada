@@ -1,6 +1,7 @@
 ## Hi there 👋 i'm Seif Hamada  
 
 🎓 Computer Science (AI) student at the University of Hertfordshire  
+
 💻 Passionate about Artificial Intelligence, Software Development, and Problem Solving  
 
 🌱 Currently expanding my knowledge in computer science while building projects and improving my problem-solving skills.  
