@@ -18,18 +18,10 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## 🚀 Projects  
-
-### 🔹 Stock & Inventory Tracker  
-A Python application to manage stock and inventory efficiently, helping users track items, quantities, and updates in real time.  
-- Built with **Python**  
-- Features **add, remove, and update inventory items**  
-- Helps users maintain organized and accurate stock records  
-[View on GitHub](https://github.com/SeifHamada/Inventory-And-Stock-Tracker)
 
 
 ### 🔹 Internship Tracker
@@ -44,6 +36,14 @@ A Python-based system that allows users to manage home devices like lights, ther
 - Implements modular classes with inheritance and composition (Device, Light, Thermostat, Camera, User, Scheduler, Controller, Main)
 -	Demonstrates use of complex data structures, user interaction handling, and automated scheduling
 [View on GitHub](https://github.com/SeifHamada/Home-Automation-System-)
+
+
+### 🔹 Stock & Inventory Tracker  
+A Python application to manage stock and inventory efficiently, helping users track items, quantities, and updates in real time.  
+- Built with **Python**  
+- Features **add, remove, and update inventory items**  
+- Helps users maintain organized and accurate stock records  
+[View on GitHub](https://github.com/SeifHamada/Inventory-And-Stock-Tracker)
 
 
 ## 🎓 Education  
