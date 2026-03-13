@@ -24,12 +24,14 @@
 
 ## 🚀 Projects  
 
-### 🔹 CS50x Final Project  
-A web-based planner that helps students create custom study plans based on their goals and schedules.  
-- Built with Python  
-- Designed to improve productivity and time management  
-[View on GitHub](https://github.com/SeifHamada/CS50-Projects/tree/main/Intro%20to%20CS/project)
- 
+### 🔹 Stock & Inventory Tracker  
+A Python application to manage stock and inventory efficiently, helping users track items, quantities, and updates in real time.  
+- Built with **Python**  
+- Features **add, remove, and update inventory items**  
+- Helps users maintain organized and accurate stock records  
+[View on GitHub](https://github.com/SeifHamada/Stock-Inventory-Tracker)
+
+
 ### 🔹 CS50p Final Project  
 A command-line finance tracker that helps users manage expenses, track income, and gain insights into spending habits. 
 - Features include expense categorization, summaries, and simple analytics  
