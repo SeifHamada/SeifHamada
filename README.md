@@ -1,12 +1,15 @@
 ## Hi there 👋 i'm Seif Hamada  
 
-🎓 Computer Science (AI) student at University of Herfordshire
+🎓 Computer Science (AI) student at the University of Hertfordshire  
 💻 Passionate about Artificial Intelligence, Software Development, and Problem Solving  
-🌱 Currently expanding my knowledge in computer science while building projects and improving my problem-solving skills.
-🛠️ Completed **CS50x**, **CS50p** and **The 100 Day Bootcamp**.  
-📈 I enjoy combining discipline from sports (boxing) with my approach to coding & learning.  
-💡 Open to internships and collaboration on AI or software-related projects.  
 
+🌱 Currently expanding my knowledge in computer science while building projects and improving my problem-solving skills.  
+
+🛠️ Completed **CS50x**, **CS50P**, and **The 100 Days of Code Python Bootcamp**  
+
+📈 I enjoy combining discipline from sports (boxing) with my approach to coding and learning.  
+
+💡 Open to internships and collaboration on AI or software-related projects.
 
 ## 🛠️ Skills  
 
